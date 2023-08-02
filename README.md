@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on climate and weather modeling
 - 🤔 I’m looking for help with planetary science
 
-- 📫 How to reach me: Instagram: @meteorolog_extraterrestre
+- 📫 How to reach me: Instagram: @meteorologo_extraterrestre
 <!--
 **jgacituag/jgacituag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
