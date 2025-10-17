@@ -1,4 +1,4 @@
-### Hola soy Jorge Gacitua Gutierrez👋
+### Hola soy Jorge Gacitúa Gutiérrez👋
 - 🔭 I’m currently working on weather model data assimilation
 - 🌱 I’m currently learning Fortran
 - 👯 I’m looking to collaborate on climate and weather modeling
